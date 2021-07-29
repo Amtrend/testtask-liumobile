@@ -1,0 +1,4 @@
+/venv/
+.idea/
+preprod.py
+train.py
