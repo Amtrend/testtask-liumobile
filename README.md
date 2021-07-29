@@ -1,6 +1,6 @@
 [Задание](https://drive.google.com/file/d/1rHGKuF-A6WH4kugJqlIYso7XJHY7gSdn/view):
 
-1. Собрать товары с сайта https://goldapple.ru/brands, а именно:
+1. Собрать товары с [сайта](https://goldapple.ru/brands), а именно:
 * Данные из поля "хлебные крошки".
 * Данные из поля с названием и брендов товара.
 * Данные из поля с артикулом.
